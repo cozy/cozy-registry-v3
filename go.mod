@@ -3,7 +3,7 @@ module github.com/cozy/cozy-apps-registry
 go 1.13
 
 require (
-	github.com/Masterminds/semver v1.5.0
+	github.com/Masterminds/semver/v3 v3.1.1
 	github.com/go-kivik/couchdb/v3 v3.2.8
 	github.com/go-kivik/kivik/v3 v3.2.3
 	github.com/go-redis/redis/v7 v7.4.1
